@@ -1,0 +1,56 @@
+html, body {
+	height: 100%;
+}
+
+body > * {
+	margin: 2%;
+}
+
+#tweet {	
+	height: 30%;
+	width: 40%;
+    border: 1px solid lightblue;
+	float: left;
+	overflow: hidden;
+}
+
+
+#user {
+	float: left;
+	width: 60%;
+	height: 20%;
+}
+
+#image {
+	
+	float: right;
+	width: 20%;
+	height: 20%;
+}
+
+#info {
+	width: 90%;
+	height: 40%;
+	word-wrap: break-word;
+	overflow-y: auto;
+}
+
+
+#tweet > * {
+	margin:2%;
+}
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
